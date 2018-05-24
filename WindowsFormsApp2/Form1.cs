@@ -17,6 +17,8 @@ namespace WindowsFormsApp2
             InitializeComponent();
             var ssss = 9987;
             ssss += 111;
+
+            var ssse = ssss;
         }
     }
 }
