@@ -22,6 +22,9 @@ namespace WindowsFormsApp2
 
 
             var ssssxxx = ssse;
+
+
+            var sssxxx = 99; 
         }
     }
 }
