@@ -19,4 +19,3 @@ D:\我的文档\GitHub\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsA
 D:\我的文档\GitHub\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 D:\我的文档\GitHub\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 D:\我的文档\GitHub\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
-D:\我的文档\GitHub\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
